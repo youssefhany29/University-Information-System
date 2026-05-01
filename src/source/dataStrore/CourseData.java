@@ -5,7 +5,6 @@ import java.io.*;
 import java.util.*;
 
 public class CourseData {
-
     private static final String Course_Data = "src/data/courses.txt";
 
     public static List<Course> loadCourses() {
