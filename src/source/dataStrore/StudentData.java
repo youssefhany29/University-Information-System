@@ -65,7 +65,5 @@ public class StudentData {
             }
         }
         saveStudents(students);
-    }      
-    
-    
+    }         
 }
