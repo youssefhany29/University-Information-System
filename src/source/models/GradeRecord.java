@@ -1,6 +1,5 @@
 package source.models;
 
-
 public class GradeRecord {
     
     private String studentUsername;
