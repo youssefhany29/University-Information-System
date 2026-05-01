@@ -1,5 +1,4 @@
 package source.models;
-
 public class Course {
     private String courseCode;
     private String courseName;
