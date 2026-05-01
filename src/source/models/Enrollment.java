@@ -1,6 +1,5 @@
 package source.models;
 
-
 public class Enrollment {
     private String studentUsername;
     private String courseCode;
