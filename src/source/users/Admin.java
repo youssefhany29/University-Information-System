@@ -1,6 +1,5 @@
 package source.users;
 
-
 public class Admin extends Person{
     
     public Admin(String username, String password, String fullName) {
